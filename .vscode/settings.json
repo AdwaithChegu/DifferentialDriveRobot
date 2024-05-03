@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/adwaith/ammr_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/adwaith/ammr_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/adwaith/ammr_ws/install/ros_arduino_serial/local/lib/python3.10/dist-packages",
+        "/home/adwaith/ammr_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages",
+        "/home/adwaith/my_ammr_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages",
+        "/home/adwaith/automobile_bot_ws/install/my_mobilebot/local/lib/python3.10/dist-packages",
+        "/home/adwaith/automobile_bot_ws/install/mobilebot_localization/local/lib/python3.10/dist-packages",
+        "/home/adwaith/automobile_bot_ws/install/mobilebot_firmware/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/adwaith/ammr_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/adwaith/ammr_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/adwaith/ammr_ws/install/ros_arduino_serial/local/lib/python3.10/dist-packages",
+        "/home/adwaith/ammr_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages",
+        "/home/adwaith/my_ammr_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages",
+        "/home/adwaith/automobile_bot_ws/install/my_mobilebot/local/lib/python3.10/dist-packages",
+        "/home/adwaith/automobile_bot_ws/install/mobilebot_localization/local/lib/python3.10/dist-packages",
+        "/home/adwaith/automobile_bot_ws/install/mobilebot_firmware/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/adwaith/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

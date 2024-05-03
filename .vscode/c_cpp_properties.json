@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/adwaith/ammr_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/adwaith/ammr_ws/install/ros2_control_demo_example_2/include/**",
+        "/home/adwaith/automobile_bot_ws/install/my_mobilebot/include/**",
+        "/home/adwaith/colcon_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/adwaith/colcon_ws/install/linkattacher_msgs/include/**",
+        "/home/adwaith/colcon_ws/install/gazebo_ros2_control/include/**",
+        "/home/adwaith/colcon_ws/install/ebot_docking/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/adwaith/diffdrive_ws/src/mobilebot_bringup/include/**",
+        "/home/adwaith/diffdrive_ws/src/mobilebot_controller/include/**",
+        "/home/adwaith/diffdrive_ws/src/mobilebot_firmware/include/**",
+        "/home/adwaith/diffdrive_ws/src/mobilebot_localization/include/**",
+        "/home/adwaith/diffdrive_ws/src/my_mobilebot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

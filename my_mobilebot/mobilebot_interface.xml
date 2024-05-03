@@ -1,0 +1,10 @@
+<library path="my_mobilebot">
+    <class name="my_mobilebot/mobilebotInterface"
+           type="my_mobilebot::mobilebotInterface"
+           base_class_type="hardware_interface::SystemInterface">
+        <description>
+            mobilebot hardware interface
+        </description>
+
+    </class>
+</library>
