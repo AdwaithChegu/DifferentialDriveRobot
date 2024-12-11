@@ -8,3 +8,7 @@ hardware components:
 5) 12 volt lithium ion battery
 
 aruino code also provided in this repository
+
+Video:
+https://github.com/user-attachments/assets/47c9fdf6-5587-4cb2-bd7d-ac38caa637ef
+
